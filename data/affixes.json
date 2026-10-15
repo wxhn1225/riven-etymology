@@ -1,0 +1,1956 @@
+{
+ "entries": [
+  {
+   "id": "visi-ata",
+   "zh": "伤害",
+   "en": "Damage",
+   "whole": false,
+   "prefix": {
+    "frag": "Visi",
+    "cut": "[vīs](+i)",
+    "word": "vīs",
+    "lang": "拉丁",
+    "gloss": "力量",
+    "rating": "2",
+    "links": [
+     {
+      "label": "vis",
+      "url": "https://en.wiktionary.org/wiki/vis#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "ata",
+    "cut": "-{ata}",
+    "word": "-ata",
+    "lang": "意大利",
+    "gloss": "一击",
+    "rating": "2",
+    "links": [
+     {
+      "label": "-ata",
+      "url": "https://en.wiktionary.org/wiki/-ata#Italian"
+     },
+     {
+      "label": "fucilata",
+      "url": "https://en.wiktionary.org/wiki/fucilata#Italian"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "crita-cron",
+   "zh": "暴击几率",
+   "en": "Critical Chance",
+   "whole": false,
+   "prefix": {
+    "frag": "Crita",
+    "cut": "[crit]ical(+a)",
+    "word": "critical",
+    "lang": "英语",
+    "gloss": "暴击",
+    "rating": "3",
+    "links": [
+     {
+      "label": "critical",
+      "url": "https://en.wiktionary.org/wiki/critical#English"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "cron",
+    "cut": "a{kron}",
+    "word": "ἄκρον",
+    "lang": "希腊",
+    "gloss": "尖端",
+    "rating": "1",
+    "links": [
+     {
+      "label": "ἄκρον",
+      "url": "https://en.wiktionary.org/wiki/%E1%BC%84%CE%BA%CF%81%CE%BF%CE%BD#Ancient_Greek"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "acri-tis",
+   "zh": "暴击伤害",
+   "en": "Critical Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Acri",
+    "cut": "[ācri]tā{tis}",
+    "word": "ācritātis",
+    "lang": "拉丁",
+    "gloss": "锋利",
+    "rating": "3",
+    "links": [
+     {
+      "label": "acritas",
+      "url": "https://en.wiktionary.org/wiki/acritas#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tis",
+    "rating": "3",
+    "links": []
+   },
+   "active": true,
+   "game": {
+    "text": "暴伤 mod 叫 Sharpened Bullets（锐利子弹）",
+    "links": [
+     {
+      "label": "Sharpened Bullets",
+      "url": "https://wiki.warframe.com/w/Sharpened_Bullets"
+     }
+    ]
+   }
+  },
+  {
+   "id": "sati-can",
+   "zh": "多重射击",
+   "en": "Multishot",
+   "whole": false,
+   "prefix": {
+    "frag": "Sati",
+    "cut": "[sati]s",
+    "word": "satis",
+    "lang": "拉丁",
+    "gloss": "足够",
+    "rating": "2",
+    "links": [
+     {
+      "label": "satis",
+      "url": "https://en.wiktionary.org/wiki/satis#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "can",
+    "cut": "multipli{can}",
+    "word": "multiplican",
+    "lang": "西班牙",
+    "gloss": "成倍增加",
+    "rating": "1",
+    "links": [
+     {
+      "label": "multiplicar",
+      "url": "https://en.wiktionary.org/wiki/multiplicar#Spanish"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "croni-dra",
+   "zh": "射速",
+   "en": "Fire Rate",
+   "whole": false,
+   "prefix": {
+    "frag": "Croni",
+    "cut": "[c]h[ron]os(+i)",
+    "word": "χρόνος",
+    "lang": "希腊",
+    "gloss": "时间",
+    "rating": "2",
+    "links": [
+     {
+      "label": "χρόνος",
+      "url": "https://en.wiktionary.org/wiki/%CF%87%CF%81%CF%8C%CE%BD%CE%BF%CF%82#Ancient_Greek"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "dra",
+    "cut": "clepsy{dra}",
+    "word": "clepsydra",
+    "lang": "拉丁",
+    "gloss": "水钟",
+    "rating": "1",
+    "links": [
+     {
+      "label": "clepsydra",
+      "url": "https://en.wiktionary.org/wiki/clepsydra#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "hexa-dex",
+   "zh": "触发几率",
+   "en": "Status Chance",
+   "whole": false,
+   "prefix": {
+    "frag": "Hexa",
+    "cut": "[hex](+a)",
+    "word": "hex",
+    "lang": "英语",
+    "gloss": "诅咒",
+    "rating": "1",
+    "links": [
+     {
+      "label": "hex",
+      "url": "https://en.wiktionary.org/wiki/hex#English"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "dex",
+    "cut": "{dex}teritās",
+    "word": "dexteritās",
+    "lang": "拉丁",
+    "gloss": "灵巧",
+    "rating": "2",
+    "links": [
+     {
+      "label": "dexteritas",
+      "url": "https://en.wiktionary.org/wiki/dexteritas#Latin"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "触发几率 mod 叫 Rifle Aptitude（步枪才能）",
+    "links": [
+     {
+      "label": "Rifle Aptitude",
+      "url": "https://wiki.warframe.com/w/Rifle_Aptitude"
+     }
+    ]
+   }
+  },
+  {
+   "id": "deci-des",
+   "zh": "触发时间",
+   "en": "Status Duration",
+   "whole": true,
+   "prefix": {
+    "frag": "Deci",
+    "cut": "[dēci]{dēs}",
+    "word": "dēcidēs",
+    "lang": "拉丁",
+    "gloss": "衰落、终止",
+    "rating": "1",
+    "links": [
+     {
+      "label": "decides",
+      "url": "https://en.wiktionary.org/wiki/decides#Latin"
+     },
+     {
+      "label": "decido",
+      "url": "https://en.wiktionary.org/wiki/decido#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "des",
+    "rating": "1",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "igni-pha",
+   "zh": "火焰伤害",
+   "en": "Heat",
+   "whole": false,
+   "prefix": {
+    "frag": "Igni",
+    "cut": "[igni]s",
+    "word": "ignis",
+    "lang": "拉丁",
+    "gloss": "火",
+    "rating": "3",
+    "links": [
+     {
+      "label": "ignis",
+      "url": "https://en.wiktionary.org/wiki/ignis#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "pha",
+    "cut": "{pha}os",
+    "word": "φάος",
+    "lang": "希腊",
+    "gloss": "光、火光",
+    "rating": "1",
+    "links": [
+     {
+      "label": "φάος",
+      "url": "https://en.wiktionary.org/wiki/%CF%86%CE%AC%CE%BF%CF%82#Ancient_Greek"
+     },
+     {
+      "label": "φανός",
+      "url": "https://en.wiktionary.org/wiki/%CF%86%CE%B1%CE%BD%CF%8C%CF%82#Ancient_Greek"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "geli-do",
+   "zh": "冰冻伤害",
+   "en": "Cold",
+   "whole": true,
+   "prefix": {
+    "frag": "Geli",
+    "cut": "[geli]{do}",
+    "word": "gélido",
+    "lang": "意大利",
+    "gloss": "冰冷的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "gelido",
+      "url": "https://en.wiktionary.org/wiki/gelido#Italian"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "do",
+    "rating": "3",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "vexi-tio",
+   "zh": "电击伤害",
+   "en": "Electricity",
+   "whole": true,
+   "prefix": {
+    "frag": "Vexi",
+    "cut": "[vex](+i)ā{tiō}",
+    "word": "vexātiō",
+    "lang": "拉丁",
+    "gloss": "剧烈摇晃",
+    "rating": "3",
+    "links": [
+     {
+      "label": "vexatio",
+      "url": "https://en.wiktionary.org/wiki/vexatio#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tio",
+    "rating": "3",
+    "links": []
+   },
+   "active": true,
+   "game": {
+    "text": "电击 mod 叫 Convulsion（痉挛）",
+    "links": [
+     {
+      "label": "Convulsion",
+      "url": "https://wiki.warframe.com/w/Convulsion"
+     }
+    ]
+   }
+  },
+  {
+   "id": "toxi-tox",
+   "zh": "毒素伤害",
+   "en": "Toxin",
+   "whole": false,
+   "prefix": {
+    "frag": "Toxi",
+    "cut": "[toxi]c",
+    "word": "toxic",
+    "lang": "英语",
+    "gloss": "有毒的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "toxicum",
+      "url": "https://en.wiktionary.org/wiki/toxicum#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tox",
+    "cut": "{tox}icum",
+    "word": "toxicum",
+    "lang": "拉丁",
+    "gloss": "毒药",
+    "rating": "3",
+    "links": [
+     {
+      "label": "toxicum",
+      "url": "https://en.wiktionary.org/wiki/toxicum#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "sci-sus",
+   "zh": "切割伤害",
+   "en": "Slash",
+   "whole": true,
+   "prefix": {
+    "frag": "Sci",
+    "cut": "[sci]s{sus}",
+    "word": "scissus",
+    "lang": "拉丁",
+    "gloss": "撕裂的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "scissus",
+      "url": "https://en.wiktionary.org/wiki/scissus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "sus",
+    "rating": "3",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "insi-cak",
+   "zh": "穿刺伤害",
+   "en": "Puncture",
+   "whole": false,
+   "prefix": {
+    "frag": "Insi",
+    "cut": "[īns]ecō(+i)",
+    "word": "īnsecō",
+    "lang": "拉丁",
+    "gloss": "切入",
+    "rating": "2",
+    "links": [
+     {
+      "label": "inseco",
+      "url": "https://en.wiktionary.org/wiki/inseco#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "cak",
+    "cut": "{çak}mak",
+    "word": "çakmak",
+    "lang": "土耳其",
+    "gloss": "钉入",
+    "rating": "1",
+    "links": [
+     {
+      "label": "çakmak",
+      "url": "https://en.wiktionary.org/wiki/%C3%A7akmak#Turkish"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "magna-ton",
+   "zh": "冲击伤害",
+   "en": "Impact",
+   "whole": false,
+   "prefix": {
+    "frag": "Magna",
+    "cut": "[magna]",
+    "word": "magna",
+    "lang": "拉丁",
+    "gloss": "巨大",
+    "rating": "2",
+    "links": [
+     {
+      "label": "magnus",
+      "url": "https://en.wiktionary.org/wiki/magnus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "ton",
+    "cut": "{ton}",
+    "word": "ton",
+    "lang": "英语",
+    "gloss": "吨",
+    "rating": "1",
+    "links": [
+     {
+      "label": "ton",
+      "url": "https://en.wiktionary.org/wiki/ton#English"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "argi-con",
+   "zh": "对 Grineer 的伤害",
+   "en": "Damage to Grineer",
+   "whole": true,
+   "prefix": {
+    "frag": "Argi",
+    "cut": "[argi]li{kon}",
+    "word": "αργιλικών",
+    "lang": "希腊",
+    "gloss": "黏土的",
+    "rating": "1",
+    "links": [
+     {
+      "label": "αργιλικός",
+      "url": "https://en.wiktionary.org/wiki/%CE%B1%CF%81%CE%B3%CE%B9%CE%BB%CE%B9%CE%BA%CF%8C%CF%82#Greek"
+     },
+     {
+      "label": "argilla",
+      "url": "https://en.wiktionary.org/wiki/argilla#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "con",
+    "rating": "1",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "manti-tron",
+   "zh": "对 Corpus 的伤害",
+   "en": "Damage to Corpus",
+   "whole": false,
+   "prefix": {
+    "frag": "Manti",
+    "cut": "[manti]ca",
+    "word": "mantica",
+    "lang": "拉丁",
+    "gloss": "钱袋",
+    "rating": "2",
+    "links": [
+     {
+      "label": "mantica",
+      "url": "https://en.wiktionary.org/wiki/mantica#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tron",
+    "cut": "-{tron}",
+    "word": "-tron",
+    "lang": "希腊",
+    "gloss": "器具",
+    "rating": "1",
+    "links": [
+     {
+      "label": "-tron",
+      "url": "https://en.wiktionary.org/wiki/-tron#English"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "Corpus 是逐利的商业集团，靠机器人打仗",
+    "links": []
+   }
+  },
+  {
+   "id": "pura-ada",
+   "zh": "对 Infested 的伤害",
+   "en": "Damage to Infested",
+   "whole": false,
+   "prefix": {
+    "frag": "Pura",
+    "cut": "[pura]",
+    "word": "pura",
+    "lang": "拉丁",
+    "gloss": "纯净",
+    "rating": "3",
+    "links": [
+     {
+      "label": "purus",
+      "url": "https://en.wiktionary.org/wiki/purus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "ada",
+    "cut": "purg{ada}",
+    "word": "purgada",
+    "lang": "西班牙",
+    "gloss": "被净化的",
+    "rating": "2",
+    "links": [
+     {
+      "label": "purgar",
+      "url": "https://en.wiktionary.org/wiki/purgar#Spanish"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "对 Infested 的 mod 叫 Cleanse Infested（净化 Infested）",
+    "links": [
+     {
+      "label": "Cleanse Infested",
+      "url": "https://wiki.warframe.com/w/Cleanse_Infested"
+     }
+    ]
+   }
+  },
+  {
+   "id": "arma-tin",
+   "zh": "弹匣容量",
+   "en": "Magazine Capacity",
+   "whole": false,
+   "prefix": {
+    "frag": "Arma",
+    "cut": "[arma]",
+    "word": "arma",
+    "lang": "拉丁",
+    "gloss": "武器",
+    "rating": "2",
+    "links": [
+     {
+      "label": "arma",
+      "url": "https://en.wiktionary.org/wiki/arma#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tin",
+    "cut": "{tin}",
+    "word": "tin",
+    "lang": "英语",
+    "gloss": "金属罐",
+    "rating": "1",
+    "links": [
+     {
+      "label": "tin",
+      "url": "https://en.wiktionary.org/wiki/tin#English"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "ampi-bin",
+   "zh": "弹药最大值",
+   "en": "Ammo Maximum",
+   "whole": false,
+   "prefix": {
+    "frag": "Ampi",
+    "cut": "[ampi]",
+    "word": "ampi",
+    "lang": "意大利",
+    "gloss": "充裕",
+    "rating": "2",
+    "links": [
+     {
+      "label": "ampio",
+      "url": "https://en.wiktionary.org/wiki/ampio#Italian"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "bin",
+    "cut": "{bin}",
+    "word": "bin",
+    "lang": "英语",
+    "gloss": "储物箱",
+    "rating": "1",
+    "links": [
+     {
+      "label": "bin",
+      "url": "https://en.wiktionary.org/wiki/bin#English"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "feva-tak",
+   "zh": "装填速度",
+   "en": "Reload Speed",
+   "whole": false,
+   "prefix": {
+    "frag": "Feva",
+    "cut": "[fev]er(+a)",
+    "word": "fever",
+    "lang": "英语",
+    "gloss": "狂热",
+    "rating": "1",
+    "links": [
+     {
+      "label": "fever",
+      "url": "https://en.wiktionary.org/wiki/fever#English"
+     },
+     {
+      "label": "fervere",
+      "url": "https://en.wiktionary.org/wiki/fervere#Italian"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tak",
+    "cut": "{tak}tisch",
+    "word": "taktisch",
+    "lang": "德语",
+    "gloss": "战术",
+    "rating": "2",
+    "links": [
+     {
+      "label": "taktisch",
+      "url": "https://en.wiktionary.org/wiki/taktisch#German"
+     },
+     {
+      "label": "Tactical Pump",
+      "url": "https://wiki.warframe.com/w/Tactical_Pump"
+     },
+     {
+      "label": "ταχύς（快）",
+      "url": "https://en.wiktionary.org/wiki/%CF%84%CE%B1%CF%87%CF%8D%CF%82#Ancient_Greek"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "装填速度 mod 叫 Tactical Pump（战术上膛）",
+    "links": [
+     {
+      "label": "Tactical Pump",
+      "url": "https://wiki.warframe.com/w/Tactical_Pump"
+     }
+    ]
+   }
+  },
+  {
+   "id": "zeti-mag",
+   "zh": "武器后坐力",
+   "en": "Weapon Recoil",
+   "whole": false,
+   "prefix": {
+    "frag": "Zeti",
+    "cut": "[zet]a(+i)",
+    "word": "zeta",
+    "lang": "希腊字母",
+    "gloss": "阻尼比 ζ",
+    "rating": "1",
+    "links": [
+     {
+      "label": "zeta",
+      "url": "https://en.wiktionary.org/wiki/zeta#English"
+     },
+     {
+      "label": "Wikipedia：阻尼比 ζ",
+      "url": "https://en.wikipedia.org/wiki/Damping#Damping_ratio"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "mag",
+    "cut": "{mag}netic",
+    "word": "magnetic",
+    "lang": "英语",
+    "gloss": "磁阻尼",
+    "rating": "1",
+    "links": [
+     {
+      "label": "Wikipedia：磁阻尼",
+      "url": "https://en.wikipedia.org/wiki/Damping#Magnetic_damping"
+     },
+     {
+      "label": "Magnum Force",
+      "url": "https://wiki.warframe.com/w/Magnum_Force"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "hera-lis",
+   "zh": "变焦",
+   "en": "Zoom",
+   "whole": false,
+   "prefix": {
+    "frag": "Hera",
+    "cut": "[h]i[era]x",
+    "word": "ἱέραξ",
+    "lang": "希腊",
+    "gloss": "鹰隼",
+    "rating": "2",
+    "links": [
+     {
+      "label": "ἱέραξ",
+      "url": "https://en.wiktionary.org/wiki/%E1%BC%B1%CE%AD%CF%81%CE%B1%CE%BE#Ancient_Greek"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "lis",
+    "cut": "ocu{līs}",
+    "word": "oculīs",
+    "lang": "拉丁",
+    "gloss": "用眼睛",
+    "rating": "1",
+    "links": [
+     {
+      "label": "oculis",
+      "url": "https://en.wiktionary.org/wiki/oculis#Latin"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "变焦 mod 叫 Hawk Eye（隼目）、Eagle Eye（鹰眼）",
+    "links": [
+     {
+      "label": "Hawk Eye",
+      "url": "https://wiki.warframe.com/w/Hawk_Eye"
+     },
+     {
+      "label": "Eagle Eye",
+      "url": "https://wiki.warframe.com/w/Eagle_Eye"
+     }
+    ]
+   }
+  },
+  {
+   "id": "conci-nak",
+   "zh": "投射物速度",
+   "en": "Projectile Speed",
+   "whole": false,
+   "prefix": {
+    "frag": "Conci",
+    "cut": "[conci]tus",
+    "word": "concitus",
+    "lang": "拉丁",
+    "gloss": "急速",
+    "rating": "2",
+    "links": [
+     {
+      "label": "concitus",
+      "url": "https://en.wiktionary.org/wiki/concitus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nak",
+    "cut": "{nak}ata",
+    "word": "nakata",
+    "lang": "芬兰",
+    "gloss": "投掷",
+    "rating": "1",
+    "links": [
+     {
+      "label": "nakata",
+      "url": "https://en.wiktionary.org/wiki/nakata#Finnish"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "lexi-nok",
+   "zh": "穿透",
+   "en": "Punch Through",
+   "whole": false,
+   "prefix": {
+    "frag": "Lexi",
+    "cut": "p[lēxi]s",
+    "word": "πλῆξις",
+    "lang": "希腊",
+    "gloss": "一击",
+    "rating": "1",
+    "links": [
+     {
+      "label": "πλῆξις",
+      "url": "https://en.wiktionary.org/wiki/%CF%80%CE%BB%E1%BF%86%CE%BE%CE%B9%CF%82#Ancient_Greek"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nok",
+    "cut": "k{no}c{k}",
+    "word": "knock",
+    "lang": "英语",
+    "gloss": "敲击",
+    "rating": "1",
+    "links": [
+     {
+      "label": "Cambridge: knock through",
+      "url": "https://dictionary.cambridge.org/dictionary/english/knock-through"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "tempi-nem",
+   "zh": "连击持续时间",
+   "en": "Combo Duration",
+   "whole": false,
+   "prefix": {
+    "frag": "Tempi",
+    "cut": "[tempi]",
+    "word": "tempi",
+    "lang": "意大利",
+    "gloss": "时间",
+    "rating": "2",
+    "links": [
+     {
+      "label": "tempo",
+      "url": "https://en.wiktionary.org/wiki/tempo#Italian"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nem",
+    "cut": "dūrātiō{nem}",
+    "word": "dūrātiōnem",
+    "lang": "拉丁",
+    "gloss": "持续",
+    "rating": "2",
+    "links": [
+     {
+      "label": "duratio",
+      "url": "https://en.wiktionary.org/wiki/duratio#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "pleci-nent",
+   "zh": "滑行攻击暴击几率",
+   "en": "Critical Chance for Slide Attack",
+   "whole": false,
+   "prefix": {
+    "frag": "Pleci",
+    "cut": "[plēc]tō(+i)",
+    "word": "plēctō",
+    "lang": "拉丁",
+    "gloss": "击打",
+    "rating": "2",
+    "links": [
+     {
+      "label": "plecto",
+      "url": "https://en.wiktionary.org/wiki/plecto#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nent",
+    "cut": "{nent}",
+    "word": "nent",
+    "lang": "拉丁",
+    "gloss": "旋转",
+    "rating": "2",
+    "links": [
+     {
+      "label": "neo",
+      "url": "https://en.wiktionary.org/wiki/neo#Latin"
+     },
+     {
+      "label": "nent",
+      "url": "https://en.wiktionary.org/wiki/nent#Latin"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "滑行攻击在游戏里也叫 Spin Attack（旋转攻击）；滑行暴击 mod 叫 Maiming Strike",
+    "links": [
+     {
+      "label": "Maiming Strike",
+      "url": "https://wiki.warframe.com/w/Maiming_Strike"
+     }
+    ]
+   }
+  },
+  {
+   "id": "locti-tor",
+   "zh": "攻击范围",
+   "en": "Range",
+   "whole": false,
+   "prefix": {
+    "frag": "Locti",
+    "cut": "[loc]ā[ti]ō",
+    "word": "locātiō",
+    "lang": "拉丁",
+    "gloss": "位置",
+    "rating": "1",
+    "links": [
+     {
+      "label": "locatio",
+      "url": "https://en.wiktionary.org/wiki/locatio#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tor",
+    "cut": "-{tor}",
+    "word": "-tor",
+    "lang": "拉丁",
+    "gloss": "施动者",
+    "rating": "1",
+    "links": [
+     {
+      "label": "-tor",
+      "url": "https://en.wiktionary.org/wiki/-tor#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "exi-cta",
+   "zh": "处决伤害",
+   "en": "Finisher Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Exi",
+    "cut": "[ex]st[i]n{cta}",
+    "word": "exstīncta",
+    "lang": "拉丁",
+    "gloss": "被杀死的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "exstinctus",
+      "url": "https://en.wiktionary.org/wiki/exstinctus#Latin"
+     },
+     {
+      "label": "exseco（另一路线：切除）",
+      "url": "https://en.wiktionary.org/wiki/exseco#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "cta",
+    "rating": "3",
+    "links": []
+   },
+   "active": true,
+   "game": {
+    "text": "处决 mod 叫 Covert Lethality（致命匿杀）",
+    "links": [
+     {
+      "label": "Covert Lethality",
+      "url": "https://wiki.warframe.com/w/Covert_Lethality"
+     }
+    ]
+   }
+  },
+  {
+   "id": "forti-us",
+   "zh": "重击效率",
+   "en": "Heavy Attack Efficiency",
+   "whole": true,
+   "prefix": {
+    "frag": "Forti",
+    "cut": "[forti]{us}",
+    "word": "fortius",
+    "lang": "拉丁",
+    "gloss": "更有力地",
+    "rating": "3",
+    "links": [
+     {
+      "label": "fortius",
+      "url": "https://en.wiktionary.org/wiki/fortius#Latin"
+     },
+     {
+      "label": "fortis",
+      "url": "https://en.wiktionary.org/wiki/fortis#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "us",
+    "rating": "3",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "para-um",
+   "zh": "初始连击",
+   "en": "Initial Combo",
+   "whole": true,
+   "prefix": {
+    "frag": "Para",
+    "cut": "[parā]t{um}",
+    "word": "parātum",
+    "lang": "拉丁",
+    "gloss": "准备好的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "paratus",
+      "url": "https://en.wiktionary.org/wiki/paratus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "um",
+    "rating": "3",
+    "links": []
+   },
+   "active": true,
+   "game": {
+    "text": "初始连击 mod 叫 Ready Steel，ready 就是「准备好」",
+    "links": [
+     {
+      "label": "Ready Steel",
+      "url": "https://wiki.warframe.com/w/Ready_Steel"
+     }
+    ]
+   }
+  },
+  {
+   "id": "laci-nus",
+   "zh": "额外连击数几率",
+   "en": "Additional Combo Count Chance",
+   "whole": false,
+   "prefix": {
+    "frag": "Laci",
+    "cut": "[lac]essō(+i)",
+    "word": "lacessō",
+    "lang": "拉丁",
+    "gloss": "挑衅",
+    "rating": "1",
+    "links": [
+     {
+      "label": "lacesso",
+      "url": "https://en.wiktionary.org/wiki/lacesso#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nus",
+    "cut": "bo{nus}",
+    "word": "bonus",
+    "lang": "英语",
+    "gloss": "额外奖励",
+    "rating": "2",
+    "links": [
+     {
+      "label": "bonus",
+      "url": "https://en.wiktionary.org/wiki/bonus#English"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "cali-fel",
+   "zh": "毒气伤害",
+   "en": "Gas",
+   "whole": false,
+   "prefix": {
+    "frag": "Cali",
+    "cut": "[cālī]gō",
+    "word": "cālīgō",
+    "lang": "拉丁",
+    "gloss": "浓雾",
+    "rating": "2",
+    "links": [
+     {
+      "label": "caligo",
+      "url": "https://en.wiktionary.org/wiki/caligo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "fel",
+    "cut": "{fel}",
+    "word": "fel",
+    "lang": "拉丁",
+    "gloss": "毒液",
+    "rating": "2",
+    "links": [
+     {
+      "label": "fel",
+      "url": "https://en.wiktionary.org/wiki/fel#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "cori-or",
+   "zh": "腐蚀伤害",
+   "en": "Corrosive",
+   "whole": true,
+   "prefix": {
+    "frag": "Cori",
+    "cut": "[cor](+i)rōd{or}",
+    "word": "corrōdor",
+    "lang": "拉丁",
+    "gloss": "被腐蚀",
+    "rating": "3",
+    "links": [
+     {
+      "label": "corrodo",
+      "url": "https://en.wiktionary.org/wiki/corrodo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "or",
+    "rating": "3",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "cari-sco",
+   "zh": "病毒伤害",
+   "en": "Viral",
+   "whole": false,
+   "prefix": {
+    "frag": "Cari",
+    "cut": "[cari]ēs",
+    "word": "cariēs",
+    "lang": "拉丁",
+    "gloss": "腐烂",
+    "rating": "2",
+    "links": [
+     {
+      "label": "caries",
+      "url": "https://en.wiktionary.org/wiki/caries#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "sco",
+    "cut": "putrē{scō}",
+    "word": "putrēscō",
+    "lang": "拉丁",
+    "gloss": "腐朽",
+    "rating": "1",
+    "links": [
+     {
+      "label": "putresco",
+      "url": "https://en.wiktionary.org/wiki/putresco#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "radi-lo",
+   "zh": "辐射伤害",
+   "en": "Radiation",
+   "whole": false,
+   "prefix": {
+    "frag": "Radi",
+    "cut": "[radi]us",
+    "word": "radius",
+    "lang": "拉丁",
+    "gloss": "光线",
+    "rating": "3",
+    "links": [
+     {
+      "label": "radius",
+      "url": "https://en.wiktionary.org/wiki/radius#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "lo",
+    "cut": "radiar{lo}",
+    "word": "radiarlo",
+    "lang": "西班牙",
+    "gloss": "辐射它",
+    "rating": "1",
+    "links": [
+     {
+      "label": "radiar",
+      "url": "https://en.wiktionary.org/wiki/radiar#Spanish"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "fraga-tus",
+   "zh": "爆炸伤害",
+   "en": "Blast",
+   "whole": false,
+   "prefix": {
+    "frag": "Fraga",
+    "cut": "[frag]or(+a)",
+    "word": "fragor",
+    "lang": "拉丁",
+    "gloss": "碎裂声",
+    "rating": "2",
+    "links": [
+     {
+      "label": "fragor",
+      "url": "https://en.wiktionary.org/wiki/fragor#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tus",
+    "cut": "frāc{tus}",
+    "word": "frāctus",
+    "lang": "拉丁",
+    "gloss": "被打碎的",
+    "rating": "2",
+    "links": [
+     {
+      "label": "fractus",
+      "url": "https://en.wiktionary.org/wiki/fractus#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "magni-bra",
+   "zh": "磁力伤害",
+   "en": "Magnetic",
+   "whole": false,
+   "prefix": {
+    "frag": "Magni",
+    "cut": "[magn]ēs(+i)",
+    "word": "magnēs",
+    "lang": "拉丁",
+    "gloss": "磁石",
+    "rating": "2",
+    "links": [
+     {
+      "label": "magnes",
+      "url": "https://en.wiktionary.org/wiki/magnes#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "bra",
+    "cut": "illece{bra}",
+    "word": "illecebra",
+    "lang": "拉丁",
+    "gloss": "吸引物",
+    "rating": "2",
+    "links": [
+     {
+      "label": "illecebra",
+      "url": "https://en.wiktionary.org/wiki/illecebra#Latin"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "Mag 的介绍：Few can resist her attraction；她的 1 技能叫「吸引」",
+    "links": [
+     {
+      "label": "Mag",
+      "url": "https://wiki.warframe.com/w/Mag"
+     }
+    ]
+   }
+  },
+  {
+   "id": "effi-tas",
+   "zh": "对奥罗金的伤害",
+   "en": "Damage to Orokin",
+   "whole": true,
+   "prefix": {
+    "frag": "Effi",
+    "cut": "[eff]er[i]{tās}",
+    "word": "efferitās",
+    "lang": "拉丁",
+    "gloss": "野蛮、堕落",
+    "rating": "2",
+    "links": [
+     {
+      "label": "efferitas",
+      "url": "https://en.wiktionary.org/wiki/efferitas#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tas",
+    "rating": "2",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "muti-gia",
+   "zh": "对科腐者的伤害",
+   "en": "Damage to Techrot",
+   "whole": false,
+   "prefix": {
+    "frag": "Muti",
+    "cut": "[muti]",
+    "word": "muti",
+    "lang": "意大利",
+    "gloss": "改变",
+    "rating": "2",
+    "links": [
+     {
+      "label": "mutare",
+      "url": "https://en.wiktionary.org/wiki/mutare#Italian"
+     },
+     {
+      "label": "mutatio",
+      "url": "https://en.wiktionary.org/wiki/mutatio#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "gia",
+    "cut": "tecnolo{gia}",
+    "word": "tecnologia",
+    "lang": "意大利",
+    "gloss": "科技",
+    "rating": "2",
+    "links": [
+     {
+      "label": "tecnologia",
+      "url": "https://en.wiktionary.org/wiki/tecnologia#Italian"
+     }
+    ]
+   },
+   "active": true,
+   "game": {
+    "text": "科腐者是会突变的科技与血肉混合体",
+    "links": []
+   }
+  },
+  {
+   "id": "exsi-llo",
+   "zh": "对炽蛇军的伤害",
+   "en": "Damage to Scaldra",
+   "whole": true,
+   "prefix": {
+    "frag": "Exsi",
+    "cut": "[exs]t[i]{llō}",
+    "word": "exstillō",
+    "lang": "拉丁",
+    "gloss": "滴落、蒸馏",
+    "rating": "2",
+    "links": [
+     {
+      "label": "exstillo",
+      "url": "https://en.wiktionary.org/wiki/exstillo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "llo",
+    "rating": "2",
+    "links": []
+   },
+   "active": true,
+   "game": {
+    "text": "炽蛇军的据点是艾弗旺蒸馏厂",
+    "links": []
+   }
+  },
+  {
+   "id": "eni-vo",
+   "zh": "弱点伤害",
+   "en": "Weak Point Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Eni",
+    "cut": "[ēn](+i)er{vō}",
+    "word": "ēnervō",
+    "lang": "拉丁",
+    "gloss": "削弱",
+    "rating": "3",
+    "links": [
+     {
+      "label": "enervo",
+      "url": "https://en.wiktionary.org/wiki/enervo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "vo",
+    "rating": "3",
+    "links": []
+   },
+   "active": true
+  },
+  {
+   "id": "exiti-eus",
+   "zh": "弱点暴击几率",
+   "en": "Weak Point Critical Chance",
+   "whole": false,
+   "prefix": {
+    "frag": "Exiti",
+    "cut": "[exiti]um",
+    "word": "exitium",
+    "lang": "拉丁",
+    "gloss": "毁灭",
+    "rating": "2",
+    "links": [
+     {
+      "label": "exitium",
+      "url": "https://en.wiktionary.org/wiki/exitium#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "eus",
+    "cut": "fūner{eus}",
+    "word": "fūnereus",
+    "lang": "拉丁",
+    "gloss": "致命的",
+    "rating": "1",
+    "links": [
+     {
+      "label": "funereus",
+      "url": "https://en.wiktionary.org/wiki/funereus#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "plaga-mna",
+   "zh": "异常状态伤害",
+   "en": "Status Damage",
+   "whole": false,
+   "prefix": {
+    "frag": "Plaga",
+    "cut": "[plaga]",
+    "word": "plāga",
+    "lang": "拉丁",
+    "gloss": "打击、创伤",
+    "rating": "2",
+    "links": [
+     {
+      "label": "plaga",
+      "url": "https://en.wiktionary.org/wiki/plaga#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "mna",
+    "cut": "da{mna}",
+    "word": "damna",
+    "lang": "拉丁",
+    "gloss": "损害",
+    "rating": "2",
+    "links": [
+     {
+      "label": "damnum",
+      "url": "https://en.wiktionary.org/wiki/damnum#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "parci-pia",
+   "zh": "弹药效率",
+   "en": "Ammo Efficiency",
+   "whole": false,
+   "prefix": {
+    "frag": "Parci",
+    "cut": "[parci]",
+    "word": "parcī",
+    "lang": "拉丁",
+    "gloss": "节省的",
+    "rating": "2",
+    "links": [
+     {
+      "label": "parcus",
+      "url": "https://en.wiktionary.org/wiki/parcus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "pia",
+    "cut": "cō{pia}",
+    "word": "cōpia",
+    "lang": "拉丁",
+    "gloss": "储备",
+    "rating": "1",
+    "links": [
+     {
+      "label": "copia",
+      "url": "https://en.wiktionary.org/wiki/copia#Latin"
+     }
+    ]
+   },
+   "active": true
+  },
+  {
+   "id": "auxi-rro",
+   "zh": "收起时自动装填（专用）",
+   "en": "Holster Reload",
+   "whole": false,
+   "prefix": {
+    "frag": "Auxi",
+    "cut": "[auxi]lium",
+    "word": "auxilium",
+    "lang": "拉丁",
+    "gloss": "帮助",
+    "rating": "2",
+    "links": [
+     {
+      "label": "auxilium",
+      "url": "https://en.wiktionary.org/wiki/auxilium#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "rro",
+    "cut": "soco{rro}",
+    "word": "socorro",
+    "lang": "西班牙",
+    "gloss": "救援",
+    "rating": "2",
+    "links": [
+     {
+      "label": "socorro",
+      "url": "https://en.wiktionary.org/wiki/socorro#Spanish"
+     }
+    ]
+   },
+   "active": false
+  },
+  {
+   "id": "robi-ndo",
+   "zh": "重击时的近战伤害（专用）",
+   "en": "Heavy Melee Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Robi",
+    "cut": "[rōb](+i)ora{ndō}",
+    "word": "rōborandō",
+    "lang": "拉丁",
+    "gloss": "加强",
+    "rating": "2",
+    "links": [
+     {
+      "label": "roboro",
+      "url": "https://en.wiktionary.org/wiki/roboro#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "ndo",
+    "rating": "2",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "veri-lus",
+   "zh": "重击准备速度（专用）",
+   "en": "Heavy Attack Wind Up",
+   "whole": true,
+   "prefix": {
+    "frag": "Veri",
+    "cut": "[ver]t[i]cil{lus}",
+    "word": "verticillus",
+    "lang": "拉丁",
+    "gloss": "纺轮",
+    "rating": "1",
+    "links": [
+     {
+      "label": "verticillus",
+      "url": "https://en.wiktionary.org/wiki/verticillus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "lus",
+    "rating": "1",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "defi-so",
+   "zh": "招架角度（专用）",
+   "en": "Parry Angle",
+   "whole": true,
+   "prefix": {
+    "frag": "Defi",
+    "cut": "[dēf](+i)ēn{sō}",
+    "word": "dēfēnsō",
+    "lang": "拉丁",
+    "gloss": "防守",
+    "rating": "2",
+    "links": [
+     {
+      "label": "defenso",
+      "url": "https://en.wiktionary.org/wiki/defenso#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "so",
+    "rating": "2",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "proci-lam",
+   "zh": "震地攻击伤害（专用）",
+   "en": "Slam Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Proci",
+    "cut": "[proc](+i)el{lam}",
+    "word": "procellam",
+    "lang": "拉丁",
+    "gloss": "风暴、冲击",
+    "rating": "2",
+    "links": [
+     {
+      "label": "procella",
+      "url": "https://en.wiktionary.org/wiki/procella#Latin"
+     },
+     {
+      "label": "lam（英语：痛打）",
+      "url": "https://en.wiktionary.org/wiki/lam#English"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "lam",
+    "rating": "2",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "prola-go",
+   "zh": "光束长度（预留）",
+   "en": "Beam Length",
+   "whole": true,
+   "prefix": {
+    "frag": "Prola",
+    "cut": "[prol](+a)on{gō}",
+    "word": "prolongō",
+    "lang": "拉丁",
+    "gloss": "延长",
+    "rating": "3",
+    "links": [
+     {
+      "label": "prolongo",
+      "url": "https://en.wiktionary.org/wiki/prolongo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "go",
+    "rating": "3",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "resi-nte",
+   "zh": "弹跳（预留）",
+   "en": "Bounce",
+   "whole": true,
+   "prefix": {
+    "frag": "Resi",
+    "cut": "[resi]lie{nte}",
+    "word": "resiliente",
+    "lang": "西班牙",
+    "gloss": "回弹的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "resiliente",
+      "url": "https://en.wiktionary.org/wiki/resiliente#Spanish"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "nte",
+    "rating": "3",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "ince-vus",
+   "zh": "首发伤害（预留）",
+   "en": "First Shot Damage",
+   "whole": true,
+   "prefix": {
+    "frag": "Ince",
+    "cut": "[ince]ptī{vus}",
+    "word": "inceptīvus",
+    "lang": "拉丁",
+    "gloss": "开始的",
+    "rating": "3",
+    "links": [
+     {
+      "label": "inceptivus",
+      "url": "https://en.wiktionary.org/wiki/inceptivus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "vus",
+    "rating": "3",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "perfri-era",
+   "zh": "战刃穿透（预留）",
+   "en": "Glaive Punch Through",
+   "whole": false,
+   "prefix": {
+    "frag": "Perfri",
+    "cut": "[perfri]ngō",
+    "word": "perfringō",
+    "lang": "拉丁",
+    "gloss": "击穿",
+    "rating": "2",
+    "links": [
+     {
+      "label": "perfringo",
+      "url": "https://en.wiktionary.org/wiki/perfringo#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "era",
+    "cut": "",
+    "word": "",
+    "lang": "",
+    "gloss": "未知",
+    "rating": "0",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "termi-pio",
+   "zh": "爆头倍率（预留）",
+   "en": "Headshot Multiplier",
+   "whole": false,
+   "prefix": {
+    "frag": "Termi",
+    "cut": "[termi]nus",
+    "word": "terminus",
+    "lang": "拉丁",
+    "gloss": "终点",
+    "rating": "1",
+    "links": [
+     {
+      "label": "terminus",
+      "url": "https://en.wiktionary.org/wiki/terminus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "pio",
+    "cut": "",
+    "word": "",
+    "lang": "",
+    "gloss": "未知",
+    "rating": "0",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "reci-cul",
+   "zh": "狙击连击持续（预留）",
+   "en": "Sniper Combo Duration",
+   "whole": false,
+   "prefix": {
+    "frag": "Reci",
+    "cut": "",
+    "word": "",
+    "lang": "",
+    "gloss": "未知",
+    "rating": "0",
+    "links": []
+   },
+   "suffix": {
+    "frag": "cul",
+    "cut": "",
+    "word": "",
+    "lang": "",
+    "gloss": "未知",
+    "rating": "0",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "tori-bo",
+   "zh": "引导伤害（旧）",
+   "en": "Channeling Damage",
+   "whole": false,
+   "prefix": {
+    "frag": "Tori",
+    "cut": "[tor]us(+i)",
+    "word": "torus",
+    "lang": "拉丁",
+    "gloss": "肌肉",
+    "rating": "1",
+    "links": [
+     {
+      "label": "torus",
+      "url": "https://en.wiktionary.org/wiki/torus#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "bo",
+    "cut": "",
+    "word": "",
+    "lang": "",
+    "gloss": "未知",
+    "rating": "0",
+    "links": []
+   },
+   "active": false
+  },
+  {
+   "id": "uti-tia",
+   "zh": "引导效率（旧）",
+   "en": "Channeling Efficiency",
+   "whole": false,
+   "prefix": {
+    "frag": "Uti",
+    "cut": "[ūtī]",
+    "word": "ūtī",
+    "lang": "拉丁",
+    "gloss": "使用",
+    "rating": "2",
+    "links": [
+     {
+      "label": "utor",
+      "url": "https://en.wiktionary.org/wiki/utor#Latin"
+     }
+    ]
+   },
+   "suffix": {
+    "frag": "tia",
+    "cut": "efficien{tia}",
+    "word": "efficientia",
+    "lang": "拉丁",
+    "gloss": "效能",
+    "rating": "2",
+    "links": [
+     {
+      "label": "efficientia",
+      "url": "https://en.wiktionary.org/wiki/efficientia#Latin"
+     }
+    ]
+   },
+   "active": false
+  }
+ ]
+}
