@@ -18,6 +18,7 @@ from pathlib import Path
 
 DATA = Path(__file__).resolve().parent.parent / 'data' / 'affixes.json'
 RATINGS = {'3', '2', '1', 'g', '0'}
+CJK = re.compile(r'[　-鿿＀-￯]')
 
 
 def norm(s: str) -> str:
@@ -43,8 +44,10 @@ def main() -> int:
         if e['id'] in seen:
             errors.append(f'{tag}: duplicate id')
         seen.add(e['id'])
-        if not isinstance(e.get('active'), bool):
-            errors.append(f'{tag}: active must be true or false')
+        if e.get('status') not in ('active', 'dedicated', 'reserved', 'removed'):
+            errors.append(f'{tag}: unknown status {e.get("status")!r}')
+        if e.get('status') == 'dedicated' and not e.get('shownAs'):
+            errors.append(f'{tag}: dedicated entry needs shownAs')
         halves = [('prefix', e['prefix']), ('suffix', e['suffix'])]
         for name, h in halves:
             if h.get('rating') not in RATINGS:
@@ -53,7 +56,34 @@ def main() -> int:
                 if not link['url'].startswith('https://'):
                     errors.append(f'{tag}: non-https link {link["url"]}')
 
+        # English version: every explanation needs whyEn, every link label with Chinese in it needs labelEn
+        for name, h in halves:
+            for x in [h] + h.get('alts', []):
+                if x.get('why') and not x.get('whyEn'):
+                    errors.append(f'{tag}: {name} {x.get("word", "")!r} has why but no whyEn')
+                for link in x.get('links', []):
+                    if CJK.search(link['label']) and not link.get('labelEn'):
+                        errors.append(f'{tag}: link {link["label"]!r} needs labelEn')
+
         pf, sf = norm(e['prefix']['frag']), norm(e['suffix']['frag'])
+        # alternative candidate sources: each needs word/lang/why; a cut, if given, must spell its half
+        for idx, (name, h) in enumerate(halves):
+            for a in h.get('alts', []):
+                for key in ('word', 'lang', 'why'):
+                    if not a.get(key):
+                        errors.append(f'{tag}: {name} alt missing {key}')
+                for link in a.get('links', []):
+                    if not link['url'].startswith('https://'):
+                        errors.append(f'{tag}: non-https link {link["url"]}')
+                if not a.get('cut'):
+                    continue
+                pre, suf = (norm(s) for s in spell(a['cut']))
+                if e['whole']:
+                    ok = (pre or suf) and (not pre or pre == pf) and (not suf or suf == sf)
+                else:
+                    ok = (pre, suf)[idx] == (pf, sf)[idx]
+                if not ok:
+                    errors.append(f'{tag}: {name} alt cut {a["cut"]!r} spells ({pre}, {suf})')
         if e['whole']:
             alts = [a for a in e['prefix']['cut'].split(' / ') if a]
             if not any(spell(a) == (pf, sf) or (norm(spell(a)[0]), norm(spell(a)[1])) == (pf, sf) for a in alts):
