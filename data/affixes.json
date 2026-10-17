@@ -791,10 +791,23 @@
           {
             "label": "clay → argilla",
             "url": "https://glosbe.com/en/la/clay"
+          },
+          {
+            "label": "argilla（Treccani）",
+            "labelEn": "argilla (Treccani)",
+            "url": "https://www.treccani.it/vocabolario/argilla/"
+          },
+          {
+            "label": "Tyl Regor",
+            "url": "https://wiki.warframe.com/w/Tyl_Regor"
+          },
+          {
+            "label": "Ghoul Purge",
+            "url": "https://wiki.warframe.com/w/Ghoul_Purge"
           }
         ],
-        "why": "argilla 是「陶土」，意大利语也是 argilla，葡萄牙语是 argila。和后缀 εἰκών「像」连起来就是「陶土像」：一个模子压出一批一模一样的陶像，就像一批批复制出来的 Grineer。游戏里没说是黏土，这一半是联想。",
-        "whyEn": "argilla means \"potter's clay\"; Italian also says argilla, Portuguese argila. With the suffix εἰκών \"likeness\" the pair reads \"clay figure\": one mould pressing out identical figures, like batch after batch of Grineer copies. The game never mentions clay, so this half is an association.",
+        "why": "argilla 是「陶土」，意大利语也是 argilla，葡萄牙语是 argila。Treccani 词典说它还可以比喻人的肉身（典出用泥土造人）。和后缀 εἰκών「像」连起来就是「陶土像」：一个模子压出一批一样的身体。游戏里 Lotus 说泰尔·雷工的研究能造出 stronger and deadlier genetic moulds（更强大、更致命的基因模板）；2017 年的食尸鬼残片还把 Grineer 食尸鬼的手臂写成 clay-cold arms（如同陶土般冰冷的手臂），不过比紫卡晚。游戏没直接说 Grineer 是陶土做的，这一半还是联想。",
+        "whyEn": "argilla means \"potter's clay\"; Italian also says argilla, Portuguese argila. Treccani adds that it can figuratively mean the human body (after the story of man made from clay). With the suffix εἰκών \"likeness\" the pair reads \"clay figure\": one mould pressing out identical bodies. Lotus says Tyl Regor's research allows \"stronger and deadlier genetic moulds\", and a 2017 Ghoul fragment describes a Grineer Ghoul's \"clay-cold arms\", though that came after rivens. The game never says the Grineer are made of clay, so this half is still an association.",
         "alts": [
           {
             "word": "αργιλικών",
