@@ -775,51 +775,72 @@
       "id": "argi-con",
       "zh": "对 Grineer 的伤害",
       "en": "Damage to Grineer",
-      "whole": true,
+      "whole": false,
       "prefix": {
         "frag": "Argi",
-        "cut": "[argi]li{kon}",
-        "word": "αργιλικών",
-        "lang": "现代希腊语",
-        "gloss": "黏土的",
+        "cut": "[argi]lla",
+        "word": "argilla",
+        "lang": "拉丁语",
+        "gloss": "陶土",
         "rating": "1",
         "links": [
           {
-            "label": "αργιλικός",
-            "url": "https://en.wiktionary.org/wiki/%CE%B1%CF%81%CE%B3%CE%B9%CE%BB%CE%B9%CE%BA%CF%8C%CF%82#Greek"
+            "label": "argilla",
+            "url": "https://en.wiktionary.org/wiki/argilla#Latin"
+          },
+          {
+            "label": "clay → argilla",
+            "url": "https://glosbe.com/en/la/clay"
+          }
+        ],
+        "why": "argilla 是「陶土」，意大利语也是 argilla，葡萄牙语是 argila。和后缀 εἰκών「像」连起来就是「陶土像」：一个模子压出一批一模一样的陶像，就像一批批复制出来的 Grineer。游戏里没说是黏土，这一半是联想。",
+        "whyEn": "argilla means \"potter's clay\"; Italian also says argilla, Portuguese argila. With the suffix εἰκών \"likeness\" the pair reads \"clay figure\": one mould pressing out identical figures, like batch after batch of Grineer copies. The game never mentions clay, so this half is an association.",
+        "alts": [
+          {
+            "word": "αργιλικών",
+            "lang": "现代希腊语",
+            "cut": "[argi]li{kon}",
+            "gloss": "黏土的",
+            "links": [
+              {
+                "label": "αργιλικός",
+                "url": "https://en.wiktionary.org/wiki/%CE%B1%CF%81%CE%B3%CE%B9%CE%BB%CE%B9%CE%BA%CF%8C%CF%82#Greek"
+              }
+            ],
+            "why": "也可以整个词首尾各取：现代希腊语 argilikón「黏土的」，取 argi 和 kon。不过这里的 kon 只是形容词词尾，本身没有意思。",
+            "whyEn": "Or both halves from one word: Modern Greek argilikón \"of clay\", taking argi and kon. But that kon is just an adjective ending with no meaning of its own."
+          }
+        ]
+      },
+      "suffix": {
+        "frag": "con",
+        "cut": "ei{kōn}",
+        "word": "εἰκών",
+        "lang": "希腊语",
+        "gloss": "像、肖像",
+        "rating": "2",
+        "links": [
+          {
+            "label": "εἰκών",
+            "url": "https://en.wiktionary.org/wiki/%CE%B5%E1%BC%B0%CE%BA%CF%8E%CE%BD#Ancient_Greek"
+          },
+          {
+            "label": "εἰκών（LSJ）",
+            "labelEn": "εἰκών (LSJ)",
+            "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.04.0057%3Aentry%3Dei%29kw%2Fn"
+          },
+          {
+            "label": "εἰκών（Strong 词典 1504）",
+            "labelEn": "εἰκών (Strong's 1504)",
+            "url": "https://biblehub.com/strongs/new/greek/1504.htm"
           },
           {
             "label": "Grineer",
             "url": "https://wiki.warframe.com/w/Grineer"
           }
         ],
-        "why": "argilikón 是「黏土的」，取 argi 和 kon。Grineer 的法典写着 Grineer are all clones from a genetic pool of ‘Originals’（全体皆是由「原始基因」的基因库复制生产而来），一个模子复制出来，可以联想成用黏土照模子捏（游戏里没说是黏土）。",
-        "alts": [
-          {
-            "word": "argilla",
-            "lang": "拉丁语",
-            "cut": "[argi]lla",
-            "gloss": "陶土",
-            "why": "只能解释 Argi：拉丁语 argilla 也是「陶土」。",
-            "links": [
-              {
-                "label": "argilla",
-                "url": "https://en.wiktionary.org/wiki/argilla#Latin"
-              },
-              {
-                "label": "clay → argilla",
-                "url": "https://glosbe.com/en/la/clay"
-              }
-            ],
-            "whyEn": "Only explains Argi: Latin argilla is also \"potter's clay\"."
-          }
-        ],
-        "whyEn": "argilikón means \"of clay\"; argi and kon are taken. The Grineer codex says they \"are all clones from a genetic pool of 'Originals'\": copies from one mould, which you could picture as clay pressed into a mould (the game never mentions clay)."
-      },
-      "suffix": {
-        "frag": "con",
-        "rating": "1",
-        "links": []
+        "why": "εἰκών 是「像、肖像」（LSJ 词典：likeness, image），英语 icon 就来自它，取结尾 kōn，k 写成 c。Grineer 正是复制品：平野指挥官的介绍写 A copy of a copy of a copy（作为复制体的复制的复制），帕尔沃斯的姐妹也说它们是 Copies of copies of copies of a real person（真人的复制体的复制体的复制体），法典写 Grineer are all clones from a genetic pool of ‘Originals’（全体皆是由「原始基因」的基因库复制生产而来）。英文搜 Greek word for likeness，结果里就有 εἰκών。",
+        "whyEn": "εἰκών means \"likeness, image\" (LSJ), and English icon comes from it; the end kōn is taken, k written as c. The Grineer are exactly that, copies: the Plains Commander description says \"A copy of a copy of a copy\", a Sister of Parvos calls them \"Copies of copies of copies of a real person\", and the codex says they \"are all clones from a genetic pool of 'Originals'\". Search \"Greek word for likeness\" and εἰκών comes up."
       },
       "status": "active"
     },
